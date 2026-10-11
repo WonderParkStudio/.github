@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">WonderPark Studio avatar concept</title>
+  <desc id="desc">A soft purple W and a golden star on a cream background.</desc>
+  <rect width="512" height="512" rx="112" fill="#FFF8EC"/>
+  <circle cx="256" cy="263" r="185" fill="#D7EDE2"/>
+  <path d="M130 206 L186 346 L256 242 L326 346 L382 206" fill="none" stroke="#403052" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 91 L270 126 L308 132 L279 157 L287 194 L256 175 L224 194 L232 157 L204 132 L242 126Z" fill="#F4CA61"/>
+</svg>

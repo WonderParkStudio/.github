@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">A little park of possibilities</title>
+  <desc id="desc">A cream-colored landscape with a purple archway, a mint Ferris wheel, yellow stars and colorful building blocks.</desc>
+  <rect width="1200" height="360" rx="24" fill="#FFF8EC"/>
+  <circle cx="610" cy="155" r="114" fill="#F5EBDD"/>
+  <path d="M0 306 Q210 262 402 302 T800 296 T1200 290 V360 H0Z" fill="#D7EDE2"/>
+  <path d="M507 360 Q550 315 584 268 H644 Q625 322 690 360" fill="#E8D9F4"/>
+  <g stroke="#403052" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M537 279 V185 A73 73 0 0 1 146 0 V279" fill="#A790C6"/>
+    <path d="M574 279 V188 A36 36 0 0 1 72 0 V279" fill="#FFF8EC" stroke="none"/>
+    <path d="M610 109 V66" fill="none"/>
+    <path d="M610 65 L651 80 L610 93Z" fill="#F4CA61"/>
+    <path d="M487 282 H721" fill="none"/>
+    <circle cx="320" cy="162" r="77" fill="#E1F0E7"/>
+    <g fill="none" stroke-width="5">
+      <path d="M320 85 V239 M243 162 H397 M266 108 L374 216 M266 216 L374 108"/>
+      <path d="M280 283 L320 162 L360 283"/>
+    </g>
+    <g fill="#F4CA61" stroke-width="5">
+      <rect x="304" y="72" width="32" height="27" rx="10"/>
+      <rect x="304" y="225" width="32" height="27" rx="10"/>
+      <rect x="227" y="148" width="32" height="27" rx="10"/>
+      <rect x="381" y="148" width="32" height="27" rx="10"/>
+    </g>
+    <circle cx="320" cy="162" r="12" fill="#A790C6"/>
+    <path d="M264 285 H376" fill="none"/>
+    <rect x="822" y="225" width="63" height="63" rx="10" fill="#A790C6"/>
+    <rect x="891" y="225" width="63" height="63" rx="10" fill="#F4CA61"/>
+    <path d="M845 212 L890 145 L936 212Z" fill="#95CBB6"/>
+    <path d="M921 254 H937 M929 246 V262" fill="none" stroke-width="5"/>
+    <path d="M137 236 Q110 202 132 183 Q151 175 155 197 Q161 165 181 176 Q202 190 170 228" fill="#95CBB6" stroke-width="5"/>
+    <path d="M155 218 V279" fill="none" stroke-width="5"/>
+  </g>
+  <g fill="#F4CA61">
+    <path d="M781 65 L790 87 L814 91 L796 107 L800 131 L781 119 L760 131 L765 107 L747 91 L772 87Z"/>
+    <path d="M192 67 L197 81 L212 86 L197 91 L192 106 L187 91 L173 86 L187 81Z"/>
+    <path d="M1020 183 L1025 197 L1040 202 L1025 207 L1020 222 L1015 207 L1001 202 L1015 197Z"/>
+  </g>
+  <g fill="#A790C6"><circle cx="444" cy="67" r="6"/><circle cx="983" cy="106" r="7"/><circle cx="743" cy="211" r="5"/></g>
+  <g stroke="#95CBB6" stroke-width="5" stroke-linecap="round"><path d="M1020 74 L1032 62 M1052 97 L1069 96 M440 218 L451 228"/></g>
+</svg>
