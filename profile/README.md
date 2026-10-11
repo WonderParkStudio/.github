@@ -9,6 +9,10 @@
   享受过程，制造快乐。
 </p>
 
+<p align="center">
+  <a href="https://dshmaker.com/">Website · 官网</a>
+</p>
+
 ---
 
 ### A little imagination. Something you can play.
@@ -23,7 +27,7 @@ We explore how AI can help more people turn their imagination into playable expe
 
 **DSH Maker** 是一款正在开发中的 AI 辅助游戏创作工具。我们希望帮助有想法的人迈出创作的第一步，让想法在一次次尝试中逐渐成形。
 
-We'll share more when it's ready. / 更多内容将在准备好后分享。
+Follow our progress at [dshmaker.com](https://dshmaker.com/). / 欢迎访问[官网](https://dshmaker.com/)，了解我们的最新进展。
 
 ---
 
