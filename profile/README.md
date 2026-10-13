@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/WonderParkStudio/.github/main/assets/banner.svg" alt="A playful little park of stars, building blocks, and possibilities" width="960">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WonderParkStudio/.github/main/assets/avatar.svg" alt="WonderPark Studio · 鲸鱼与砖块 M 标志" width="144" height="144">
+</p>
+
 <h1 align="center">WonderPark Studio</h1>
 
 <p align="center">
